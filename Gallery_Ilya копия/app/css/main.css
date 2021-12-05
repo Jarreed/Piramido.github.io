@@ -1,0 +1,344 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+main{
+	display: flex;
+	wight: 80%;
+	margin: auto;
+	flex-wrap: wrap;
+	box-shadow: 0 0 20px 4px rgba(0, 0, 0, 0.5);
+	max-width: 1000px;
+	color: #fff;
+}
+
+.img56{
+	background-image: url(../img/img56.jpg);
+}
+
+.img57{
+	background-image: url(../img/img57.jpeg);
+}
+
+.img58{
+	background-image: url(../img/img58.jpg);
+}
+
+.img59{
+	background-image: url(../img/img59.jpg);
+}
+
+.img60{
+	background-image: url(../img/img60.jpg);
+
+}
+
+.img61{
+	background-image: url(../img/img61.jpg);
+
+}
+
+.img62{
+	background-image: url(../img/img62.jpg);
+
+}
+
+.img63{
+	background-image: url(../img/img63.jpg);
+
+}
+
+.img64{
+	background-image: url(../img/img64.jpeg);
+
+}
+
+.img65{
+	background-image: url(../img/img65.jpeg);
+
+}
+
+.img66{
+	background-image: url(../img/img66.jpg);
+
+}
+
+.img67{
+	background-image: url(../img/img67.jpg);
+
+}
+
+.img68{
+	background-image: url(../img/img68.jpg);
+
+}
+
+.img69{
+	background-image: url(../img/img69.jpg);
+
+}
+
+.img70{
+	background-image: url(../img/img70.jpg);
+
+}
+
+.img71{
+	background-image: url(../img/img71.jpeg);
+
+}
+
+.img72{
+	background-image: url(../img/img72.jpg);
+
+}
+
+.img73{
+	background-image: url(../img/img73.jpg);
+
+}
+
+.img74{
+	background-image: url(../img/img74.jpg);
+
+}
+
+.img75{
+	background-image: url(../img/img75.jpeg);
+
+}
+
+.img76{
+	background-image: url(../img/img76.jpeg);
+
+}
+
+.img77{
+	background-image: url(../img/img77.jpg);
+
+}
+
+.img78{
+	background-image: url(../img/img78.jpg);
+
+}
+
+.img79{
+	background-image: url(../img/img79.jpg);
+
+}
+
+.img80{
+	background-image: url(../img/img80.jpg);
+
+}
+
+.img81{
+	background-image: url(../img/img81.jpg);
+
+}
+
+.img82{
+	background-image: url(../img/img82.jpg);
+
+}
+
+
+.img83{
+	background-image: url(../img/img83.jpg);
+
+}
+
+.img84{
+	background-image: url(../img/img84.jpg);
+
+}
+
+.img85{
+	background-image: url(../img/img85.jpeg);
+
+}
+
+.img86{
+	background-image: url(../img/img86.jpg);
+
+}
+
+.img87{
+	background-image: url(../img/img87.jpg);
+
+}
+
+.img88{
+	background-image: url(../img/img88.jpg);
+
+}
+
+.img89{
+	background-image: url(../img/img89.jpg);
+
+}
+
+.img90{
+	background-image: url(../img/img90.png);
+
+}
+
+.img91{
+	background-image: url(../img/img91.jpe);
+
+}
+
+.img92{
+	background-image: url(../img/img92.jpg);
+
+}
+
+.img93{
+	background-image: url(../img/img93.jpg);
+
+}
+
+.img94{
+	background-image: url(../img/img94.jpg);
+
+}
+
+.img95{
+	background-image: url(../img/img95.jpg);
+
+}
+
+.img96{
+	background-image: url(../img/img96.jpg);
+
+}
+
+.img97{
+	background-image: url(../img/img97.jpg);
+
+}
+
+.img98{
+	background-image: url(../img/img98.jpg);
+
+}
+
+.img99{
+	background-image: url(../img/img99.jpg);
+
+}
+
+.img100{
+	background-image: url(../img/img100.jpg);
+
+}
+
+.img101{
+	background-image: url(../img/img101.jpg);
+
+}
+
+.img102{
+	background-image: url(../img/img102.jpg);
+
+}
+
+.img103{
+	background-image: url(../img/img103.jpg);
+
+}
+
+.img104{
+	background-image: url(../img/img104.jpg);
+
+}
+
+.img105{
+	background-image: url(../img/img105.jpg);
+
+}
+
+.img106{
+	background-image: url(../img/img106.jpg);
+
+}
+
+.img107{
+	background-image: url(../img/img107.jpg);
+
+}
+
+.img108{
+	background-image: url(../img/img108.jpg);
+
+}
+
+.img109{
+	background-image: url(../img/img109.jpeg);
+
+}
+
+.img110{
+	background-image: url(../img/img110.jpeg);
+
+}
+
+.img111{
+	background-image: url(../img/img111.jpg);
+
+}
+
+.img9999{
+	background-image: url(../img/img9999.jpg);
+
+}
+
+.photo{
+	max-height: 265px;
+	max-width: 490px;
+	width: calc(50% - 10px);
+	height: calc(95vw/2/ 16*9);
+	background-position: center;
+	margin: 5px;
+	background-size: cover;
+	-webkit-background-size: cover;
+}
+
+.photo:hover{
+	transform: rotate(2deg) scale(1.07) ;
+	box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.5);
+	transition: 1s;
+}
+
+a{
+	font-family: "Comfortaa", cursive;
+	font-size: 30px;
+	margin: 85px;
+	color: black;
+
+}
+
+p{
+	font-family: "Comfortaa", cursive;
+	font-size: 30px;
+	margin: 50px;
+	color: black;
+
+}
+
+h1{
+	font-family: "Comfortaa", cursive;
+	font-size: 30px;
+	text-align: center;
+	color: black;
+
+}
+
+
+
+
+
+
