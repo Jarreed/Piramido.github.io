@@ -1,0 +1,28 @@
+* {
+padding: 0;
+margin: 0;
+background-color: #efefef;
+}
+
+body {
+width: 70%;	
+margin: auto;
+background-color: lightgrey;
+box-shadow: 0 0 10px 2px rgba(102 99 97);
+}
+
+img {
+ width: 100%;
+ height: auto;
+}
+
+p{
+	font-family: 'IBM Plex Mono', monospace;
+	padding: 30px;
+	font-size: 25px;
+		}
+h1{
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+
